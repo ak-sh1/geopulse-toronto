@@ -1,0 +1,92 @@
+{
+  "total_neighbourhoods": 140,
+  "data_source": "Sample data (demo)",
+  "data_quality": {
+    "crime_coverage": 100.0,
+    "transit_coverage": 100.0,
+    "housing_coverage": 100.0,
+    "service_coverage": 100.0
+  },
+  "top_attention_neighbourhoods": [
+    {
+      "neighbourhood": "Dovercourt-Wallace Emerson-Junction",
+      "attention_score_normalized": 100.0,
+      "crime_rate": 24.379205819861134,
+      "stop_density": 4.911279042946445,
+      "housing_pressure": 0.8381408515956971,
+      "request_rate": 540.130844104037
+    },
+    {
+      "neighbourhood": "Black Creek",
+      "attention_score_normalized": 84.49226490731941,
+      "crime_rate": 20.763683413609375,
+      "stop_density": 7.94841804639803,
+      "housing_pressure": 0.98,
+      "request_rate": 447.0445484486046
+    },
+    {
+      "neighbourhood": "Victoria Village",
+      "attention_score_normalized": 82.72593686950295,
+      "crime_rate": 22.62502421389649,
+      "stop_density": 0.9743020468765722,
+      "housing_pressure": 0.8794343388668074,
+      "request_rate": 148.28450989808442
+    },
+    {
+      "neighbourhood": "Pelmo Park-Humberlea",
+      "attention_score_normalized": 80.2009409746762,
+      "crime_rate": 22.768192147595745,
+      "stop_density": 6.316136565783378,
+      "housing_pressure": 0.8113712249674363,
+      "request_rate": 434.9577647823262
+    },
+    {
+      "neighbourhood": "Woodbine-Lumsden",
+      "attention_score_normalized": 75.45375547704833,
+      "crime_rate": 23.986428694056922,
+      "stop_density": 4.733300898192905,
+      "housing_pressure": 0.9673060820950466,
+      "request_rate": 150.74991789220158
+    },
+    {
+      "neighbourhood": "Humber Heights-Westmount",
+      "attention_score_normalized": 73.1679945539578,
+      "crime_rate": 16.910728273058748,
+      "stop_density": 4.179514011854868,
+      "housing_pressure": 0.9645568189928371,
+      "request_rate": 169.4897906964843
+    },
+    {
+      "neighbourhood": "Lawrence Park North",
+      "attention_score_normalized": 71.93184479871502,
+      "crime_rate": 18.20063023825425,
+      "stop_density": 8.646001798619933,
+      "housing_pressure": 0.8954713998605022,
+      "request_rate": 469.0951366014338
+    },
+    {
+      "neighbourhood": "Guildwood",
+      "attention_score_normalized": 69.8507831663793,
+      "crime_rate": 24.684309990433217,
+      "stop_density": 8.5876554822981,
+      "housing_pressure": 0.9702145809308811,
+      "request_rate": 254.995004995005
+    },
+    {
+      "neighbourhood": "Bayview Woods-Steeles",
+      "attention_score_normalized": 69.63340910521661,
+      "crime_rate": 22.17213298412979,
+      "stop_density": 7.589134426089716,
+      "housing_pressure": 0.979990760781472,
+      "request_rate": 174.17105555967657
+    },
+    {
+      "neighbourhood": "Newtonbrook East",
+      "attention_score_normalized": 68.98686411035597,
+      "crime_rate": 22.80919725759327,
+      "stop_density": 5.433983449724616,
+      "housing_pressure": 0.8646884945204456,
+      "request_rate": 259.18138491729746
+    }
+  ]
+}
